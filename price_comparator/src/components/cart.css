@@ -1,0 +1,47 @@
+.site-card-border-less-wrapper {
+  background: #ececec;
+  padding: 30px;
+}
+  [data-theme="dark"] .site-card-border-less-wrapper {
+    background: #303030;
+  }
+
+  .cart .ant-col:first-child {
+    border: 2px solid;
+    border-color: green;
+    background-color: #98FB98;
+  }
+
+  .cart .ant-col:first-child .totalcost-span{
+    color: green;
+  }
+
+  .cart .ant-col:first-child .totalcost-price-span{
+    color: green;
+  }
+
+
+.cost-span{
+  font-size: 1rem;
+}
+
+.cost-price-span {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.totalcost-span {
+  font-size: 1.8rem;
+}
+
+.totalcost-price-span {
+  font-size: 2rem;
+}
+
+.product-element:nth-child(odd) {
+  background: #FFFAF0;
+}
+
+.product-element:nth-child(even) {
+  background: #F8F8FF;
+}

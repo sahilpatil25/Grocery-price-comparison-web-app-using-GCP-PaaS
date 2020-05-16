@@ -1,0 +1,174 @@
+[
+    {
+        "store_name": "Walmart Supercenter",
+        "products": [
+            {
+                "item_name": "Breasts W/Rib Meat Italian Style Chicken",
+                "brand": "Pilgrim Pride",
+                "quantity_per_item": "5.0 lb",
+                "rate": 3.48,
+                "quantity_selected": 6,
+                "price": 20.88,
+                "unit_price": 0.69
+            },
+            {
+                "item_name": "Boneless Skinless Chicken Breast",
+                "brand": "Forester",
+                "quantity_per_item": "2.0 lb",
+                "rate": 7.71,
+                "quantity_selected": 3,
+                "price": 23.13,
+                "unit_price": 3.85
+            },
+            {
+                "item_name": "Farmhouse Hearty White Bread",
+                "brand": "Pepperidge Farm",
+                "quantity_per_item": "24.0 oz",
+                "rate": 2.98,
+                "quantity_selected": 2,
+                "price": 5.96,
+                "unit_price": 0.12
+            },
+            {
+                "item_name": "100% Lactose Free 2% Reduced Fat Milk",
+                "brand": "Lactaid ",
+                "quantity_per_item": "96.0 fl oz",
+                "rate": 4.47,
+                "quantity_selected": 4,
+                "price": 17.88,
+                "unit_price": 0.04
+            }
+        ],
+        "total_cost": 67.85,
+        "value_rank": 0
+    },
+    {
+        "store_name": "Food City",
+        "products": [
+            {
+                "item_name": "Breasts W/Rib Meat Italian Style Chicken",
+                "brand": "Pilgrim Pride",
+                "quantity_per_item": "5.0 lb",
+                "rate": 3.98,
+                "quantity_selected": 6,
+                "price": 23.88,
+                "unit_price": 0.79
+            },
+            {
+                "item_name": "Boneless Skinless Chicken Breast",
+                "brand": "Forester",
+                "quantity_per_item": "2.0 lb",
+                "rate": 8.21,
+                "quantity_selected": 3,
+                "price": 24.630000000000003,
+                "unit_price": 4.1
+            },
+            {
+                "item_name": "Farmhouse Hearty White Bread",
+                "brand": "Pepperidge Farm",
+                "quantity_per_item": "24.0 oz",
+                "rate": 3.98,
+                "quantity_selected": 2,
+                "price": 7.96,
+                "unit_price": 0.16
+            },
+            {
+                "item_name": "100% Lactose Free 2% Reduced Fat Milk",
+                "brand": "Lactaid ",
+                "quantity_per_item": "96.0 fl oz",
+                "rate": 4.32,
+                "quantity_selected": 4,
+                "price": 17.28,
+                "unit_price": 0.04
+            }
+        ],
+        "total_cost": 73.75,
+        "value_rank": 1
+    },
+    {
+        "store_name": "Food City",
+        "products": [
+            {
+                "item_name": "Breasts W/Rib Meat Italian Style Chicken",
+                "brand": "Pilgrim Pride",
+                "quantity_per_item": "5.0 lb",
+                "rate": 3.98,
+                "quantity_selected": 6,
+                "price": 23.88,
+                "unit_price": 0.79
+            },
+            {
+                "item_name": "Boneless Skinless Chicken Breast",
+                "brand": "Forester",
+                "quantity_per_item": "2.0 lb",
+                "rate": 8.21,
+                "quantity_selected": 3,
+                "price": 24.630000000000003,
+                "unit_price": 4.1
+            },
+            {
+                "item_name": "Farmhouse Hearty White Bread",
+                "brand": "Pepperidge Farm",
+                "quantity_per_item": "24.0 oz",
+                "rate": 3.98,
+                "quantity_selected": 2,
+                "price": 7.96,
+                "unit_price": 0.16
+            },
+            {
+                "item_name": "100% Lactose Free 2% Reduced Fat Milk",
+                "brand": "Lactaid ",
+                "quantity_per_item": "96.0 fl oz",
+                "rate": 4.32,
+                "quantity_selected": 4,
+                "price": 17.28,
+                "unit_price": 0.04
+            }
+        ],
+        "total_cost": 73.75,
+        "value_rank": 1
+    },
+    {
+        "store_name": "Food City",
+        "products": [
+            {
+                "item_name": "Breasts W/Rib Meat Italian Style Chicken",
+                "brand": "Pilgrim Pride",
+                "quantity_per_item": "5.0 lb",
+                "rate": 3.98,
+                "quantity_selected": 6,
+                "price": 23.88,
+                "unit_price": 0.79
+            },
+            {
+                "item_name": "Boneless Skinless Chicken Breast",
+                "brand": "Forester",
+                "quantity_per_item": "2.0 lb",
+                "rate": 8.21,
+                "quantity_selected": 3,
+                "price": 24.630000000000003,
+                "unit_price": 4.1
+            },
+            {
+                "item_name": "Farmhouse Hearty White Bread",
+                "brand": "Pepperidge Farm",
+                "quantity_per_item": "24.0 oz",
+                "rate": 3.98,
+                "quantity_selected": 2,
+                "price": 7.96,
+                "unit_price": 0.16
+            },
+            {
+                "item_name": "100% Lactose Free 2% Reduced Fat Milk",
+                "brand": "Lactaid ",
+                "quantity_per_item": "96.0 fl oz",
+                "rate": 4.32,
+                "quantity_selected": 4,
+                "price": 17.28,
+                "unit_price": 0.04
+            }
+        ],
+        "total_cost": 73.75,
+        "value_rank": 1
+    }
+]

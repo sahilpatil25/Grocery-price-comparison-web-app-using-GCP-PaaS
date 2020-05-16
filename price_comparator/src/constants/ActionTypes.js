@@ -1,0 +1,8 @@
+export const GET_STORES = 'GET_STORES'
+export const SET_STORES = 'SET_STORES'
+export const SET_PRODUCTS = 'SET_PRODUCTS'
+export const UPDATE_PRODUCTS = 'UPDATE_PRODUCTS'
+export const PRODUCTS_LIST = 'PRODUCTS_LIST'
+export const CLEAR_STORES = 'CLEAR_STORES'
+export const CLEAR_PRODUCTS = 'CLEAR_PRODUCTS'
+export const CHECKOUT_LIST = 'CHECKOUT_LIST'

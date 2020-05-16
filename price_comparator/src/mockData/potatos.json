@@ -1,0 +1,38 @@
+[
+    {
+        "product_id": 7,
+        "product_name": "Potatoes",
+        "brand":"Nature Fresh",
+        "quantity":""
+    },
+    {
+        "product_id": 8,
+        "product_name": "Potatoes",
+        "brand":"Nature Fresh2",
+        "quantity":""
+    },
+    {
+        "product_id": 9,
+        "product_name": "Potatoes",
+        "brand":"Nature Fresh3",
+        "quantity":""
+    },
+    {
+        "product_id": 10,
+        "product_name": "Potatoes",
+        "brand":"Nature Fresh4",
+        "quantity":""
+    },
+    {
+        "product_id": 11,
+        "product_name": "Potatoes",
+        "brand":"Nature Fresh5",
+        "quantity":""
+    },
+    {
+        "product_id": 12,
+        "product_name": "Potatoes",
+        "brand":"Nature Fresh6",
+        "quantity":""
+    }
+]
